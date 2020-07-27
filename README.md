@@ -14,11 +14,13 @@ Included in this project are kickstarter data, along with visualized data trends
 
 ### Analysis of Outcomes Based on Launch Date
 
+<img width="502" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/68725398/88500435-c5df2100-cf96-11ea-836e-eb62bf5483b5.png">
+
 We have a Pivot table here created with the data for the "theater" parent category. These data consists of a breakdown on the various months that campaigns are launched in and how they trend for successes, failures and cancelations in a marked line chart. The dataset can be filtered for inidividual year's look as well if necessary.
 
-<img src=“.//resources/Outcomes_vs_Goals.png”></img>
-<img width="600" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/68725398/88500138-dd69da00-cf95-11ea-80ab-521d584b6d80.png">
 ### Analysis of Outcomes Based on Goals
+
+<img width="659" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/68725398/88500482-dc857800-cf96-11ea-91ce-f81e6347bf57.png">
 
 The Outcomes Based on Goals dataset has all the "play" subcategory entries categories into goal targets from "Less than 1000" all the way up to "Greater than 50000" with intervals at every 4999 after 5000. These are counted up for "Successful", "Failed" and "Canceled" columns and then added together to find each goal categories' totals. We further delve into the data by looking at the outcomes as a percentage and then charting them with a line chart to see if there are correlations between the asked goal amounts and their outcomes.
 
