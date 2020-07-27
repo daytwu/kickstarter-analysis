@@ -16,9 +16,12 @@ Included in this project are kickstarter data, along with visualized data trends
 
 We have a Pivot table here created with the data for the "theater" parent category. These data consists of a breakdown on the various months that campaigns are launched in and how they trend for successes, failures and cancelations in a marked line chart. The dataset can be filtered for inidividual year's look as well if necessary.
 
+<img src=“.//resources/Outcomes_vs_Goals.png”></img>
+
 ### Analysis of Outcomes Based on Goals
 
 The Outcomes Based on Goals dataset has all the "play" subcategory entries categories into goal targets from "Less than 1000" all the way up to "Greater than 50000" with intervals at every 4999 after 5000. These are counted up for "Successful", "Failed" and "Canceled" columns and then added together to find each goal categories' totals. We further delve into the data by looking at the outcomes as a percentage and then charting them with a line chart to see if there are correlations between the asked goal amounts and their outcomes.
+
 
 ### Challenges and Difficulties Encountered
 
