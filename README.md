@@ -16,20 +16,20 @@ Included in this project are kickstarter data, along with visualized data trends
 
 <img width="502" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/68725398/88500435-c5df2100-cf96-11ea-836e-eb62bf5483b5.png">
 
-We have a Pivot table here created with the data for the "theater" parent category. These data consists of a breakdown on the various months that campaigns are launched in and how they trend for successes, failures and cancelations in a marked line chart. The dataset can be filtered for inidividual year's look as well if necessary.
+We have a Pivot table for **"Outcomes Based on Launch Date"**, created with the data filtered on the "theater" parent category. These data consists of a breakdown on the various months that campaigns are launched in and how they trend for successes, failures and cancelations in a marked line chart. The dataset can be filtered for inidividual year's look as well if necessary.
 
 ### Analysis of Outcomes Based on Goals
 
 <img width="659" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/68725398/88500482-dc857800-cf96-11ea-91ce-f81e6347bf57.png">
 
-The Outcomes Based on Goals dataset has all the "play" subcategory entries categories into goal targets from "Less than 1000" all the way up to "Greater than 50000" with intervals at every 4999 after 5000. These are counted up for "Successful", "Failed" and "Canceled" columns and then added together to find each goal categories' totals. We further delve into the data by looking at the outcomes as a percentage and then charting them with a line chart to see if there are correlations between the asked goal amounts and their outcomes.
+The **"Outcomes Based on Goals"** dataset has all the "play" subcategory entries categories into goal targets from "Less than 1000" all the way up to "Greater than 50000" with intervals at every 4999 after 5000. These are counted up for "Successful", "Failed" and "Canceled" columns and then added together to find each goal categories' totals. We further delve into the data by looking at the outcomes as a percentage and then charting them with a line chart to see if there are correlations between the asked goal amounts and their outcomes.
 
 
 ### Challenges and Difficulties Encountered
 
-Data on "Theater Outcomes By Launch Date" does not seem to be as complete as initially thought when looking at it as a whole (all years). Looking into individual years shows that years other then 2014, 2015 and 2016 looking a little lackluster in terms of data points, which might not be as accurate of a dataset as initially thought.
+Data on **"Theater Outcomes By Launch Date"** does not seem to be as complete as initially thought when looking at it as a whole (all years). Looking into individual years shows that years other then 2014, 2015 and 2016 looking a little lackluster in terms of data points, which might not be as accurate of a dataset as initially thought.
 
-Data on "Outcomes Based on Goals" seems to be skewered towards the lower end numbers here as the goal category for Louise falls under around just 15% of the total entries in the dataset. A bigger sample might be needed for more accurate views of these trends.
+Data on **"Outcomes Based on Goals"** seems to be skewered towards the lower end numbers here as the goal category for Louise falls under around just 15% of the total entries in the dataset. A bigger sample might be needed for more accurate views of these trends.
 
 ## Results
 
