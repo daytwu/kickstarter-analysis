@@ -4,6 +4,8 @@
 
 ## Overview of Project
 
+### Purpose
+
 Performing analysis on Kickstarter data to uncover trends. Included in this project are kickstarter data, along with visualized data trends on Outcomes based on Launch Date for the "Theater" parent category and Outcomes based on Goals for the "Plays" subcategory.
 
 The purpose of this project is to help Louise get a more insightful look into the kickstarter funding campaigns of others who seeks out similar amounts for their plays, so that she is more prepared for her own play's campaign.
