@@ -40,6 +40,6 @@ Outcomes based on goals for plays seem to succeed far more when goal fundings ar
 
 The biggest flaw in this dataset is that there are no details for the usages of the fundings itself. Although it is useful to know the successes and failures of kickstarters goals and pledged amounts are at, it is equally important to know where the fundings are allocated to within the campaign. A percentage breakdown of the fundings for the campaign or even just a short description for this would have made this dataset significantly better for analytics.
 
-What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create?
 
 Other possible tables and/or graphs that could be created are "Percentage of Successful campaigns vs Failed campaigns" for every Parent category of the kickstarter data which can be displayed neatly in a stacked divergent bar chart. This type of chart really highlights the positive and negatives of a subject in order to give meaningful insights on how the 2 outcome rank against each other. A possible immediate usage would be for investment firms who are looking for their next business opportunities, this shows how popular a particular category would be along with their successes and failures when it comes to seeking funding from others, therefore bringing up immediate risks and benefits when considering an investment.
